@@ -1,0 +1,68 @@
+//OUR WORK
+.our-work{
+    padding-top: 193px;
+    padding-bottom: 100px;
+    position: relative;
+    &--top--backgroup-behind{
+        img{
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 22%;
+            height: auto;
+        }
+    }
+    //banner top
+    &--banner-top{
+        padding-top: 41px;
+        margin-bottom: 100px;
+        height: 201px;
+        background-color: #f0f6ff;
+        .our-work--title-h3{
+            text-align: center;
+            margin-bottom: 16;
+            text-transform: uppercase;
+            color: #2e2e2c;
+        }
+        .our-work--description{
+            display: flex;
+            justify-content: center;
+            p{
+                max-width: 504px;
+                text-align: center;
+                color: rgba(46, 46, 44, 0.8);
+            }
+        }
+    }
+    //body
+    &--body{
+        .our-work--title-h4{
+            color: #2e2e2c;
+        }
+        .line-bottom-image{
+            width: 62px;
+            height: 4px;
+            background-color: #61a1ff;
+        }
+        .our-work--content-group{
+            margin-bottom: 62px;
+        }
+        .our-work--title-h4{
+            margin-bottom: 10px;
+        }
+        .our-work--cont-image{
+            box-shadow: -6px 5px 8px rgba(0, 0, 0, 0.14);
+            height: 216px;
+            width: 100%;
+            &:hover{
+                box-shadow: -6px 5px 8px #969696;
+                cursor: pointer;
+            }
+            img{
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+        }
+    }
+}

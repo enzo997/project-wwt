@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'FuturaBT-Heavy';
+  src: url("../fonts/Futura/FuturaPTHeavy.otf");
+  font-weight: 900;
+  font-style: normal;
+  font-display: fallback; }
+@font-face {
+  font-family: 'Futura-Bold';
+  src: url("../fonts/Futura/FuturaPTBold.otf");
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback; }
+@font-face {
+  font-family: 'FuturaPT-Book';
+  src: url("../fonts/Futura/FuturaPTBook.otf");
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback; }
+@font-face {
+  font-family: 'FuturaBT-Medium';
+  src: url("../fonts/Futura/FuturaMediumBT.ttf");
+  font-weight: 500;
+  font-style: normal;
+  font-display: fallback; }
+@font-face {
+  font-family: 'Gilroy-Bold';
+  src: url("../fonts/Gilroy/Gilroy-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback; }
+@font-face {
+  font-family: 'Gilroy-Medium';
+  src: url("../fonts/Gilroy/Gilroy-Medium.ttf");
+  font-weight: 500;
+  font-style: normal;
+  font-display: fallback; }
